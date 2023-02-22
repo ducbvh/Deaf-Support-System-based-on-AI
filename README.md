@@ -4,7 +4,7 @@
 
 **Sơ đồ khối phương pháo đề xuất:**
 
-    ![image](https://user-images.githubusercontent.com/45920660/220525001-f4b03710-3d61-4bee-8a6a-0429dc97baa0.png)
+   ![image](https://user-images.githubusercontent.com/45920660/220525001-f4b03710-3d61-4bee-8a6a-0429dc97baa0.png)
 
 
 **Thao tác chính:**
@@ -23,4 +23,4 @@
 
 **Kết quả đạt được:**
 
-     ![image](https://user-images.githubusercontent.com/45920660/220525147-4378106b-3ca6-420d-8358-1d3cddaef257.png)
+   ![image](https://user-images.githubusercontent.com/45920660/220525147-4378106b-3ca6-420d-8358-1d3cddaef257.png)
