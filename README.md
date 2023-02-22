@@ -1,4 +1,4 @@
-# 2023-HCMUTE- Đồ án tốt nghiệp
+# 2023 - HCMUTE - Đồ án tốt nghiệp
 221DT44 - NGHIÊN CỨU, PHÁT TRIỂN HỆ THỐNG HỖ TRỢ NGƯỜI KHIẾM THÍNH ỨNG DỤNG TRÍ TUỆ NHÂN TẠO
 
 ![image](https://user-images.githubusercontent.com/45920660/220525001-f4b03710-3d61-4bee-8a6a-0429dc97baa0.png)
