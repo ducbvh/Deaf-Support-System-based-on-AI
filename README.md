@@ -1,10 +1,13 @@
 # 2023 - HCMUTE - Đồ án tốt nghiệp
 221DT44 - NGHIÊN CỨU, PHÁT TRIỂN HỆ THỐNG HỖ TRỢ NGƯỜI KHIẾM THÍNH ỨNG DỤNG TRÍ TUỆ NHÂN TẠO
 
+
+**Sơ đồ khối phương pháo đề xuất:**
+
 ![image](https://user-images.githubusercontent.com/45920660/220525001-f4b03710-3d61-4bee-8a6a-0429dc97baa0.png)
 
 
-Thao tác chính:
+**Thao tác chính:**
   - Trích xuất thông tin thủ ngữ từ MediaPipe
   
   ![image](https://user-images.githubusercontent.com/45920660/220524933-34f124c8-020d-499d-ad77-35ed87fa7274.png)
@@ -18,6 +21,6 @@ Thao tác chính:
   ![image](https://user-images.githubusercontent.com/45920660/220525118-9c982cfa-09c5-4630-bc78-2b66badab462.png)
 
 
-Kết quả đạt được:
+**Kết quả đạt được:**
 
-![image](https://user-images.githubusercontent.com/45920660/220525147-4378106b-3ca6-420d-8358-1d3cddaef257.png)
+   ![image](https://user-images.githubusercontent.com/45920660/220525147-4378106b-3ca6-420d-8358-1d3cddaef257.png)
