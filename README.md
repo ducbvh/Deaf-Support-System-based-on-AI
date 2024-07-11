@@ -1,4 +1,4 @@
-# 2023 - HCMUTE - Đồ án tốt nghiệp
+# Deaf Support System based on AI
 221DT44 - NGHIÊN CỨU, PHÁT TRIỂN HỆ THỐNG HỖ TRỢ NGƯỜI KHIẾM THÍNH ỨNG DỤNG TRÍ TUỆ NHÂN TẠO
 
 
